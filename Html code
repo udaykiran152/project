@@ -1,14 +1,27 @@
 <html>
   
 <head>
-    <!-- Information about the page -->
-    <!--This is the comment tag-->
-      
     <title>jarvis</title>
+   <hello sir>
 </head>
   
 <body>
-    <!--Contents of the webpage-->
 </body>
   
+</html>
+<!DOCTYPE HTML>
+<html>
+
+<body>
+
+  <p>Before the script...</p>
+
+  <script>
+    alert( 'jarvis !' );
+  </script>
+
+  <p>...After the script.</p>
+
+</body>
+
 </html>
